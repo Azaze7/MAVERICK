@@ -16,7 +16,9 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 ## 🎏 Team Composition
 
 **This Project was completed with the assistance of *four* group members!**
+
 [*Awarded 4th Place Overall*] & [*Most Technical Award*]
+
 Special Thanks to Atlas Development Team Members:
 
 [William Dunlap](https://github.com/unit098 "William's Github") - *Code Lead*: Major Game Logic, Enemy Behavior, and Bullets.
