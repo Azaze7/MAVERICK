@@ -54,5 +54,5 @@ Special Thanks to Atlas Development Team Members:
 </p>
 
 * It is a great source of pride that my team's GameJam Project is able to sit next to games that were part of both our childhood and adulthood.
-* If you would like to use these artworks for your copy of MAVERICK, please look at the Steam Artwork folder. :)
+* If you would like to use these artworks for your copy of MAVERICK, please look at the [SteamGridAssets](https://github.com/Azaze7/MAVERICK/tree/main/SteamGridAssets "Steam Grid Artwork") folder. :)
 
