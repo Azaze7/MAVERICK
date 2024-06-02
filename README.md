@@ -24,6 +24,7 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 ### License Choice
 * Since the prompt of this event was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
 * Some titles discussed and their potiental genre included:
+  
 | *Title* | *Genre* |
 |----------|----------|
 | The Evil Dead (1981) | Survival Horror |
