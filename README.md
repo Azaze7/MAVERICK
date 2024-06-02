@@ -24,18 +24,22 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 ### License Choice
 * Since the prompt of this event was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
 * Some titles discussed and their potiental genre included:
-* Karate Kid (1984) - Fighting Game.
-* Space Balls (1987) - Ship Simulator.
-* Forest Gump (1994) - Endless Runner.
-* The Evil Dead (1981) - Survival Horror.
-* Indiana Jones & The Raiders of the Lost Ark (1981) - 2D Platformer.
-* Top Gun (1986) - 2D Shooter.
+| *Title* | *Genre* |
+|----------|----------|
+| The Evil Dead (1981) | Survival Horror |
+| Indiana Jones & The Raiders of the Lost Ark (1981) | 2D Platformer |
+| Karate Kid (1984) | Fighting Game |
+| Top Gun (1986) | 2D Shooter/Bullet Hell |
+| Space Balls (1987) | Ship Simulator |
+| Forest Gump (1994) | Endless Runner |
 
 * Potiental titles were struck based on their imagined difficulty to create given our tight time schedule.
 * Needing a lot of unique animations for 2D fighters led to Karate Kid getting struck. 
 * Needing a lot of code to make a fun simulation led to Space Balls getting struck.
 * Needing a lot of unique assets led to The Evil Dead and Indiana Jones getting struck.
 * Forest Gump was struck due to lack of interest, leading us to choose Top Gun.
+
+### Naming Conventions
 
 * Due to the rules stating that we were *NOT* allowed to directly adapt the movie, we chose to make our game a prequel to the original Top Gun Film, when the character Pete "Maverick" Mitchell was still in Flight School, using a simulator.
 * The name of the game, MAVERICK, was chosen to satirize the wierd naming conventions that are tied to movie franchises like Rocky and Rambo. (Such as Rocky 6 being called "Rocky Balboa" and Rambo 4 being called just "Rambo").
@@ -50,10 +54,10 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 * We had very few people die while playing MAVERICK on the show floor, and when they did they respawned very quickly to keep the game fun.
 * *If MAVERICK was to be retooled, rebranded, and then released as a proper videogame, the hitpoints would be decreased to a more "challenging" level.*
 
-### A 2 level Approach.
+### A 2-level Approach.
 * In order to teach players who may have never played a 2D shooter, the first level was set to be a tutorial with basic graphics. The colors are purposely kept simple with vectors to tie into our plot of Maverick still being in Flight School.
 * After the first level is completed, the difficulty was to be increased and a more impressive presentation would also follow.
-* We were only trying to do 2 levels due to the strict time constraints.
+* We were only trying to do a 2 level vertical slice due to the strict time constraints.
 
 ## 🎏 Team Composition [Atlas Development]
 
