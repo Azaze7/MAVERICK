@@ -66,7 +66,6 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 * *If MAVERICK was to be retooled, rebranded, and then released as a proper videogame, the hitpoints would be decreased to a more "challenging" level.*
 
 
-
 ## 🎏 Team Composition [Atlas Development]
 
 **This Project was completed with the assistance of *four* group members!**
