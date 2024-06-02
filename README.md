@@ -46,6 +46,17 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 * The flow of our Game has a fun flow now too, being:
 * MAVERICK -> Top Gun -> Top Gun: Maverick.
 
+### Cabinet Design
+* Since MAVERICK takes design inspiration from retro arcade games, we decided to copy the way that those games are played now.
+* Emulated collections of arcade games are usually played on modern TVs or monitors, which are much wider than the arcades of old.
+* We decided to add side art as though MAVERICK was a real arcade game when it is in play, which you may have seen in retro collections such as NAMCO Musuem.
+
+
+### A 2-level Approach.
+* In order to teach players who may have never played a 2D shooter, the first level was set to be a tutorial with basic graphics. The colors are purposely kept simple with vectors to tie into our plot of Maverick still being in Flight School.
+* After the first level is completed, the difficulty was to be increased and a more impressive presentation would also follow.
+* We were only trying to do a 2 level vertical slice due to the strict time constraints.
+
 ### Healthbar & Difficulty.
 * In order to ensure MAVERICK was able to be completed by everyone who played it on the show floor, we took a more "modern-day approach" to the game's difficulty.
 * While MAVERICK did take a ton of inspiration from retro arcade style shooters, we did not want it to feel like it was designed to take your quarters away, nor overly frustrating to even a novice gamer.
@@ -54,10 +65,7 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 * We had very few people die while playing MAVERICK on the show floor, and when they did they respawned very quickly to keep the game fun.
 * *If MAVERICK was to be retooled, rebranded, and then released as a proper videogame, the hitpoints would be decreased to a more "challenging" level.*
 
-### A 2-level Approach.
-* In order to teach players who may have never played a 2D shooter, the first level was set to be a tutorial with basic graphics. The colors are purposely kept simple with vectors to tie into our plot of Maverick still being in Flight School.
-* After the first level is completed, the difficulty was to be increased and a more impressive presentation would also follow.
-* We were only trying to do a 2 level vertical slice due to the strict time constraints.
+
 
 ## 🎏 Team Composition [Atlas Development]
 
