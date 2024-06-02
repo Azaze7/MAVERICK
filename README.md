@@ -81,15 +81,16 @@ Special Thanks to All Team Members!
 * This tutorial took inspiration from military radar equiptment and games like Atari® BattleZone, which used simple lines and vectors for their visuals.
 * After the first level was completed, a secondary level was to be loaded in with a more "realistic" artstyle and harder enemies. This level was to have fully animated water and sandy beaches, along with an additional, already completed but unused song.
 
-* Below are some of the additional sprites we had created for it. (Every asset had a tutorial and realistic version created, though they went unused)
+* Below are some of the additional sprites we had created for it. Keep in mind, in our code every single sprite had the same hitbox regardless if it was in the tutorial or real version of the level.
+* (Every asset we created had a tutorial and realistic version created, though they went unused.)
 
 | | Tutorial | Realistic |
 |----------|----------|----------|
 | Player Character [F-14 Tomcat] | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/Tutorial_Ship_Player.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/F-14_Tomcat_Player.png" > |
-| Enemy (Side-to-side) [MIG-28] | Row2     | Row2     |
-| Enemy (Stationary Missle) [MIG-29] | Row3     | Row3     |
-| Enemy (Divebombers) [YAK-141] | Row4     | Row4     |
-| Enemy Missle     | Row5     | Row5     |
+| Enemy (Side-to-side) [MIG-28] | <img src=" " > | <img src=" " > |
+| Enemy (Stationary Missle) [MIG-29] | <img src=" " > | <img src=" " > |
+| Enemy (Divebombers) [YAK-141] | <img src=" " > | <img src=" " > |
+| Enemy Missle     | <img src=" " > | <img src=" " > |
 
 ### Powerups.
 * It was the team's intention that enemies that were destroyed would periodically drop powerups.
@@ -98,9 +99,9 @@ Special Thanks to All Team Members!
 
 | | Tutorial | Realistic | Function |
 |----------|----------|----------|----------|
-| Volleyball | Row1     | Row1     | Summoned an additonal jet that would fly next to yours for double firepower. (Inspired by double ships in NAMCO's Galaga.) |
-| Sunglasses | Row2     | Row2     | Created a shield that would be at the front of the player's jet. This shield could be used to block enemy fire for a short while. |
-| Maverick Emblem | Row3     | Row3     | Made all shots fired by the player into missles for a short while. (Design based on Konami's Contra.) |
+| Volleyball | <img src=" " > | <img src=" " > | Summoned an additonal jet that would fly next to yours for double firepower. (Inspired by double ships in NAMCO's Galaga.) |
+| Sunglasses | <img src=" " > | <img src=" " > | Created a shield that would be at the front of the player's jet. This shield could be used to block enemy fire for a short while. |
+| Maverick Emblem | <img src=" " > | <img src=" " > | Made all shots fired by the player into missles for a short while. (Design based on Konami's Contra.) |
 
 ## Closing Thoughts.
 
