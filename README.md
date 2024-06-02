@@ -76,7 +76,7 @@ Special Thanks to All Team Members!
 
 * Due to the strict timing of the Game Jam, we were unable to fully complete our original vision of MAVERICK.
 
-# Second Level & "Realistic" Artstyle.
+### Second Level & "Realistic" Artstyle.
 * The original intention was for the green line level to act as a tutorial, teaching the player how the game worked since it was a "simulation".
 * This tutorial took inspiration from military radar equiptment and games like Atari® BattleZone, which used simple lines and vectors for their visuals.
 * After the first level was completed, a secondary level was to be loaded in with a more "realistic" artstyle and harder enemies. This level was to have fully animated water and sandy beaches, along with an additional, already completed but unused song.
@@ -91,7 +91,7 @@ Special Thanks to All Team Members!
 | Enemy (Divebombers) [YAK-141] | Row4     | Row4     |
 | Enemy Missle     | Row5     | Row5     |
 
-# Powerups.
+### Powerups.
 * It was the team's intention that enemies that were destroyed would periodically drop powerups.
 * These powerups were loosely based off the Top Gun© Movie, and included things like a pair of avaitor sunglasses and a volleyball.
 * Their sprites and intended functions are shown below.
