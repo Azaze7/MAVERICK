@@ -9,11 +9,15 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 
 Special Thanks to Atlas Development Team Members:
 
-[Fernando H. Remes](https://github.com/FernRemes "Fernie's Github"),
+[Gilbert I. Guzman](https://github.com/FernRemes "Gilbert's Github"),
 
-[Jose San Miguel](https://github.com/JMSaint14 "Jose's Github"),
+[Zachary Whittman](https://github.com/JMSaint14 "Jose's Github"),
 
-[Hector Diaz](https://github.com/hodiazwn "Hector's Github").
+[Dante Lopez](https://github.com/hodiazwn "Hector's Github"),
+
+[Jesus](),
+
+[Will]().
 
 ## 🔎 Table of Contents.
 
