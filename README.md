@@ -47,7 +47,7 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 * MAVERICK -> Top Gun -> Top Gun: Maverick.
 
 ### Cabinet Design
-* Since MAVERICK takes design inspiration from retro arcade games, we decided to copy the way that those games are played now.
+* Since MAVERICK takes design inspiration from retro arcade games, we decided to copy the way that those games are played nowadays.
 * Emulated collections of arcade games are usually played on modern TVs or monitors, which are much wider than the arcades of old.
 * We decided to add side art as though MAVERICK was a real arcade game when it is in play, which you may have seen in retro collections such as NAMCO Musuem.
 
