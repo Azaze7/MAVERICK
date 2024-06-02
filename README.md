@@ -108,7 +108,7 @@ Special Thanks to All Team Members!
 |----------|----------|----------|----------|
 | Volleyball | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/Volleyball_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/Volleyball_real.png" > | Summoned an additonal jet that would fly next to yours for double firepower. (Inspired by double ships in NAMCO's Galaga.) |
 | Sunglasses | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/sunglasses_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/sunglasses_real.png" > | Created a shield that would be at the front of the player's jet. This shield could be used to block enemy fire for a short while. |
-| Maverick Emblem | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Real.png" > | Made all shots fired by the player into missles for a short while. (Design based on Konami's Contra.) |
+| Maverick Emblem | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Real.png" > | Made all shots fired by the player into missles for a short while. (Design based powerups in Konami's Contra.) |
 
 ## Closing Thoughts.
 
