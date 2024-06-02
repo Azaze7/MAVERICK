@@ -50,6 +50,11 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 * We had very few people die while playing MAVERICK on the show floor, and when they did they respawned very quickly to keep the game fun.
 * *If MAVERICK was to be retooled, rebranded, and then released as a proper videogame, the hitpoints would be decreased to a more "challenging" level.*
 
+### A 2 level Approach.
+* In order to teach players who may have never played a 2D shooter, the first level was set to be a tutorial with basic graphics. The colors are purposely kept simple with vectors to tie into our plot of Maverick still being in Flight School.
+* After the first level is completed, the difficulty was to be increased and a more impressive presentation would also follow.
+* We were only trying to do 2 levels due to the strict time constraints.
+
 ## 🎏 Team Composition [Atlas Development]
 
 **This Project was completed with the assistance of *four* group members!**
@@ -100,7 +105,7 @@ Special Thanks to All Team Members!
 * It is a great source of pride that my team's GameJam Project is able to sit next to games that were part of both our childhood and adulthood.
 * If you would like to use these artworks for your copy of MAVERICK, please look at the [SteamGridAssets](https://github.com/Azaze7/MAVERICK/tree/main/SteamGridAssets "Steam Grid Artwork") folder. :)
 
-## The Cutting Room Floor.
+## ✂️ The Cutting Room Floor.
 
 * Due to the strict timing of the Game Jam, we were unable to fully complete our original vision of MAVERICK.
 
@@ -131,5 +136,5 @@ Special Thanks to All Team Members!
 | Sunglasses | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/sunglasses_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/sunglasses_real.png" > | Created a shield that would be at the front of the player's jet. This shield could be used to block enemy fire for a short while. |
 | Maverick Emblem | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Real.png" > | Made all shots fired by the player into missles for a short while. (Design based powerups in Konami's Contra.) |
 
-## Closing Thoughts.
+## 🚪 Closing Thoughts.
 
