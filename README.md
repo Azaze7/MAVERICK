@@ -77,11 +77,12 @@ Special Thanks to All Team Members!
 * Due to the strict timing of the Game Jam, we were unable to fully complete our original vision of MAVERICK.
 
 ### Healthbar & Difficulty.
-* In order to ensure MAVERICK was able to be completed by everyone who played it on the show floor, we took a more modern day approach to the games difficulty.
+* In order to ensure MAVERICK was able to be completed by everyone who played it on the show floor, we took a more "modern-day approach" to the game's difficulty.
 * While MAVERICK did take a ton of inspiration from retro arcade style shooters, we did not want it to feel like it was designed to take your quarters away, nor overly frustrating to even a novice gamer.
 * To accomplish this, we removed the concept of lives so that everyone could just play the game, and respawn after a short while when they died. We did NOT want anyone to reach a GAME OVER state early. (This concept is implemented in many modern games, such as Celeste or Super Mario Odyssey).
 * We also increased the number of hit points the player ship could take for the sake of the demo. It was increased from 5 to 25, which in practice made it almost impossible for anyone to even see their ship blow up, especially since this was originally a tutorial stage.
-* We had very few people die while playing MAVERICK on the show floor, and when they did they respawned very quickly to keep the game fun. *If MAVERICK was to be retooled, rebranded, and then released as a proper videogame, the hitpoints would be decreased to a more "challenging" level.*
+* We had very few people die while playing MAVERICK on the show floor, and when they did they respawned very quickly to keep the game fun.
+* *If MAVERICK was to be retooled, rebranded, and then released as a proper videogame, the hitpoints would be decreased to a more "challenging" level.*
 
 ### Second Level & "Realistic" Artstyle.
 * The original intention was for the green line level to act as a tutorial, teaching the player how the game worked since it was a "simulation".
