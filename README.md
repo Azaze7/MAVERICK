@@ -85,7 +85,7 @@ Special Thanks to All Team Members!
 
 | | Tutorial | Realistic |
 |----------|----------|----------|
-| Player Character [F-14 Tomcat] | https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/Tutorial_Ship_Player.png | https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/F-14_Tomcat_Player.png |
+| Player Character [F-14 Tomcat] | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/Tutorial_Ship_Player.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/F-14_Tomcat_Player.png" > |
 | Enemy (Side-to-side) [MIG-28] | Row2     | Row2     |
 | Enemy (Stationary Missle) [MIG-29] | Row3     | Row3     |
 | Enemy (Divebombers) [YAK-141] | Row4     | Row4     |
