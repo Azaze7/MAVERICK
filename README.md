@@ -9,15 +9,15 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 
 Special Thanks to Atlas Development Team Members:
 
-[Gilbert I. Guzman](https://github.com/Azaze7 "Gilbert's Github") - *Team Coordinator*: Main Menu, Logos/Emblems, Code Assistance, SteamOS Porting, Communicated with Unity Helpers.
+[William Dunlap](https://github.com/unit098 "William's Github") - *Code Lead*: Major Game Logic, Enemy Behavior, and Bullets.
 
-[Zachary Whittman](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead*: Requested Assets from members, Lead Artstyle and Design, Background Creation and Effects. 
+[Gilbert I. Guzman](https://github.com/Azaze7 "Gilbert's Github") - *Team Coordinator*: Main Menu, Logos/Emblems, Code Assistance, SteamOS Porting, Communicated with Unity Helpers.
 
 [Dante Lopez](https://github.com/dragons6612 "Dante's Github") - *Art Support*: Assisted In Creation of all Assets, Consulted on Plane Design.
 
-[Jesus]() - *Composer*: Composed All Music.
+[Jesus Torres]() - *Composer*: Composed All Music.
 
-[William Dunlap](https://github.com/unit098 "William's Github") - *Code Lead*: Major Game Logic, Enemy Behavior, and Bullets.
+[Zachary Whittman](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead*: Requested Assets from members, Lead Artstyle and Design, Background Creation and Effects, Powerup behavior. 
 
 ## 🔎 Table of Contents.
 
