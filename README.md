@@ -7,19 +7,25 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 
 ## 🔎 Table of Contents.
 
-1. Team Composition
-2. What is MAVERICK?
+1. What is MAVERICK?
+2. Team Composition [Atlas Development]
 3. What Files are Enclosed Here?
 4. Video Demonstration.
 5. SteamOS Integration.
 
-## 🎏 Team Composition
+## ⌨ What is Powershell-Empire? 
+
+* Powershell-Empire was an open-source post-exploitation agent that ran through Windows Powershell.
+* It allowed for a user to generate attack scripts for use against other Windows machines, MacOS, or Linux subsystems.
+* It is not offically maintained as of August of 2019, but a fork was used as a base for the creation of this cybersecurity excercise.
+
+## 🎏 Team Composition [Atlas Development]
 
 **This Project was completed with the assistance of *four* group members!**
 
 * Awarded [*4th Place Overall*] & [*Most Technical Award*].
 
-Special Thanks to Atlas Development Team Members:
+Special Thanks to All Team Members!
 
 [William Dunlap](https://github.com/unit098 "William's Github") - *Code Lead*: Major Game Logic, Enemy Behavior, Plane Trail System, and Bullet System.
 
@@ -34,12 +40,6 @@ Special Thanks to Atlas Development Team Members:
 <p align="center">
 <img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Atlas_Development_Team_Photo.jpg" height="375px"> 
 </p>
-
-## ⌨ What is Powershell-Empire? 
-
-* Powershell-Empire was an open-source post-exploitation agent that ran through Windows Powershell.
-* It allowed for a user to generate attack scripts for use against other Windows machines, MacOS, or Linux subsystems.
-* It is not offically maintained as of August of 2019, but a fork was used as a base for the creation of this cybersecurity excercise.
 
 ## 🗂️ What Files are Enclosed Here?
 
