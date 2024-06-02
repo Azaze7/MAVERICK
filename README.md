@@ -52,8 +52,7 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 * We decided to add side art as though MAVERICK was a real arcade game when it is in play, which you may have seen in retro collections such as NAMCO Musuem.
 
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/PAC-MAN_Arcade_Banner_Example.png" height="200px"> </p> 
-<p align="center">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/PAC-MAN_Arcade_Banner_Example.png" height="200px">
 <img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/MAVERICK_Arcade_Banner.png" height="200px"> </p> 
 
 ### A 2-level Approach.
