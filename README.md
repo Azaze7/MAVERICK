@@ -7,8 +7,7 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 
 ## 🔎 Table of Contents.
 
-1. What is MAVERICK?
-* What Design Decisions did we make?
+1. What is MAVERICK? What were our Design Decisions?
 2. Team Composition [Atlas Development]
 3. What Files are Enclosed Here?
 4. Video Demonstration.
@@ -16,11 +15,40 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 6. The Cutting Room Floor.
 7. Closing Thoughts.
 
-##  What is Maverick? 
+##  What is MAVERICK? What were our Design Decisions?
 
 * Powershell-Empire was an open-source post-exploitation agent that ran through Windows Powershell.
 * It allowed for a user to generate attack scripts for use against other Windows machines, MacOS, or Linux subsystems.
 * It is not offically maintained as of August of 2019, but a fork was used as a base for the creation of this cybersecurity excercise.
+
+### License Choice
+* Since the prompt of this event was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
+* Some titles discussed and their potiental genre included:
+* Karate Kid (1984) - Fighting Game.
+* Space Balls (1987) - Ship Simulator.
+* Forest Gump (1994) - Endless Runner.
+* The Evil Dead (1981) - Survival Horror.
+* Indiana Jones & The Raiders of the Lost Ark (1981) - 2D Platformer.
+* Top Gun (1986) - 2D Shooter.
+
+* Potiental titles were struck based on their imagined difficulty to create given our tight time schedule.
+* Needing a lot of unique animations for 2D fighters led to Karate Kid getting struck. 
+* Needing a lot of code to make a fun simulation led to Space Balls getting struck.
+* Needing a lot of unique assets led to The Evil Dead and Indiana Jones getting struck.
+* Forest Gump was struck due to lack of interest, leading us to choose Top Gun.
+
+* Due to the rules stating that we were *NOT* allowed to directly adapt the movie, we chose to make our game a prequel to the original Top Gun Film, when the character Pete "Maverick" Mitchell was still in Flight School, using a simulator.
+* The name of the game, MAVERICK, was chosen to satirize the wierd naming conventions that are tied to movie franchises like Rocky and Rambo. (Such as Rocky 6 being called "Rocky Balboa" and Rambo 4 being called just "Rambo").
+* The flow of our Game has a fun flow now too, being:
+* MAVERICK -> Top Gun -> Top Gun: Maverick.
+
+### Healthbar & Difficulty.
+* In order to ensure MAVERICK was able to be completed by everyone who played it on the show floor, we took a more "modern-day approach" to the game's difficulty.
+* While MAVERICK did take a ton of inspiration from retro arcade style shooters, we did not want it to feel like it was designed to take your quarters away, nor overly frustrating to even a novice gamer.
+* To accomplish this, we removed the concept of lives so that everyone could just play the game, and respawn after a short while when they died. We did NOT want anyone to reach a GAME OVER state early. (This concept is implemented in many modern games, such as Celeste or Super Mario Odyssey).
+* We also increased the number of hit points the player ship could take for the sake of the demo. It was increased from 5 to 25, which in practice made it almost impossible for anyone to even see their ship blow up, especially since this was originally a tutorial stage.
+* We had very few people die while playing MAVERICK on the show floor, and when they did they respawned very quickly to keep the game fun.
+* *If MAVERICK was to be retooled, rebranded, and then released as a proper videogame, the hitpoints would be decreased to a more "challenging" level.*
 
 ## 🎏 Team Composition [Atlas Development]
 
