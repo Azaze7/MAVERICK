@@ -117,15 +117,16 @@ Special Thanks to All Team Members!
 <img src="https://github.com/Azaze7/MAVERICK/blob/main/SteamGridAssets/Maverick_SteamOS_Demonstration.gif" height="375px"> 
 </p>
 
-* It is a great source of pride that my team's GameJam Project is able to sit next to games that were part of both our childhood and adulthood.
+* It is a great source of pride that our team's game is able to sit next to games that were part of both our childhood and adulthood.
 * If you would like to use these artworks for your copy of MAVERICK, please look at the [SteamGridAssets](https://github.com/Azaze7/MAVERICK/tree/main/SteamGridAssets "Steam Grid Artwork") folder. :)
 
 ## ✂️ The Cutting Room Floor.
 
 * Due to the strict timing of the Game Jam, we were unable to fully complete our original vision of MAVERICK.
+* MAVERICK ended up having to be a single level, with the second level being completely struck.
 
 ### Second Level & "Realistic" Artstyle.
-* The original intention was for the green line level to act as a tutorial, teaching the player how the game worked since it was a "simulation".
+* The original intention was for the green line level (level 1) to act as a tutorial, teaching the player how the game worked since it was a "simulation".
 * This tutorial took inspiration from military radar equiptment and games like Atari® BattleZone, which used simple lines and vectors for their visuals.
 * After the first level was completed, a secondary level was to be loaded in with a more "realistic" artstyle and harder enemies. This level was to have fully animated water and sandy beaches, along with an additional, already completed but unused song.
 
