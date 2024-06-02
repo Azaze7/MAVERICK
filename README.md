@@ -17,7 +17,7 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 
 **This Project was completed with the assistance of *four* group members!**
 
-[*Awarded 4th Place Overall*] & [*Most Technical Award*]
+* Awarded [*4th Place Overall*] & [*Most Technical Award*].
 
 Special Thanks to Atlas Development Team Members:
 
