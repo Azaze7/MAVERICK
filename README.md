@@ -2,7 +2,7 @@
 (Personal Project/Hackathon)
 
 <p align="center">
-<img src="hhttps://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_TitleScreen.png" /> 
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_TitleScreen.png" /> 
 </p>
 
 **This Project was completed with the assistance of *four* group members!**
