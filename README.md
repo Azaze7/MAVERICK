@@ -12,6 +12,7 @@ Finalized Build of MAVERICK, a game created by my team "Atlas Development" for t
 3. What Files are Enclosed Here?
 4. Video Demonstration.
 5. SteamOS Integration.
+6. Unused Assets & Closing Thoughts.
 
 ## ⌨ What is Powershell-Empire? 
 
@@ -54,7 +55,7 @@ Special Thanks to All Team Members!
 
 ## 🎞️ Video Demonstration.
 
-* A video demonstrating the use of PowerShell-Empire was created by myself for this project.
+* A video demonstrating a full run of the one level we completed for our vertical slice was recorded by myself for this project.
 * Since it is too big to upload here, it can be found at this link:
   * https://www.youtube.com/watch?v=DJutJYl7XlY 
 
