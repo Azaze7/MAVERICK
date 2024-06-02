@@ -73,7 +73,7 @@ Special Thanks to All Team Members!
 
 [Dante Lopez](https://github.com/dragons6612 "Dante's Github") - *Art Support*: Assisted In Creation of all Assets and Consulted on Jet Design/Pixel Art.
 
-[Jesus Torres]() - *Composing lead*: Composed All Music, Ending Screen, and Main Playtester.
+[Jesus Torres](https://github.com/jatorresdom "Jesus's Github") - *Composing lead*: Composed All Music, Ending Screen, and Main Playtester.
 
 [Zachary Whittman](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead*: Requested Assets from Members, Taught GIMP to Team, Code Assistance, Background Creation and Effects, and Powerup Design. 
 
