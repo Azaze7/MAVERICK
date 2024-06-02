@@ -2,7 +2,7 @@
 Finalized Build of MAVERICK, a game created by my team "Atlas Development" for the 2024 Borderlands Glitch Game Jam. Won *Most Technical* Award and 4th Place Overall. 
 
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_TitleScreen.png" > 
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_TitleScreen.png" height="375px"> 
 </p>
 
 ## 🔎 Table of Contents.
