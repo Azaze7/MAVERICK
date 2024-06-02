@@ -32,13 +32,13 @@ Special Thanks to All Team Members!
 
 [William Dunlap](https://github.com/unit098 "William's Github") - *Code Lead*: Major Game Logic, Enemy Behavior, Plane Trail System, and Bullet System.
 
-[Gilbert I. Guzman](https://github.com/Azaze7 "Gilbert's Github") - *Team Coordinator*: Main Menu System, Game Logos/Emblems, Code Assistance, SteamOS Porting, Communicated with Staff.
+[Gilbert I. Guzman](https://github.com/Azaze7 "Gilbert's Github") - *Team Coordinator*: Main Menu System, Game Logos/Emblems, Powerup Design, Code Assistance, SteamOS Porting, Communicated with Staff.
 
 [Dante Lopez](https://github.com/dragons6612 "Dante's Github") - *Art Support*: Assisted In Creation of all Assets and Consulted on Plane Design.
 
 [Jesus Torres]() - *Composing lead*: Composed All Music, Ending Screen, and Main Playtester.
 
-[Zachary Whittman](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead*: Requested Assets from Members, Code Assistance, Background Creation and Effects, and Powerup Behavior. 
+[Zachary Whittman](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead*: Requested Assets from Members, Code Assistance, Background Creation and Effects, and Powerup Design. 
 
 <p align="center">
 <img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Atlas_Development_Team_Photo.jpg" height="375px"> 
@@ -85,10 +85,10 @@ Special Thanks to All Team Members!
 
 | | Tutorial | Realistic |
 |----------|----------|----------|
-| Player Character     | Row1     | Row1     |
-| Enemy (Side-to-side)     | Row2     | Row2     |
-| Enemy (Stationary Missle)     | Row3     | Row3     |
-| Enemy (Divebombers)     | Row4     | Row4     |
+| Player Character [F-14 Tomcat] | Row1     | Row1     |
+| Enemy (Side-to-side) [MIG-28] | Row2     | Row2     |
+| Enemy (Stationary Missle) [MIG-29] | Row3     | Row3     |
+| Enemy (Divebombers) [YAK-141] | Row4     | Row4     |
 | Enemy Missle     | Row5     | Row5     |
 
 # Powerups.
@@ -100,7 +100,7 @@ Special Thanks to All Team Members!
 |----------|----------|----------|----------|
 | Volleyball | Row1     | Row1     | Summoned an additonal jet that would fly next to yours for double firepower. (Inspired by double ships in NAMCO's Galaga.) |
 | Sunglasses | Row2     | Row2     | Created a shield that would be at the front of the player's jet. This shield could be used to block enemy fire for a short while. |
-| Maverick Emblem | Row3     | Row3     | Made all shots fired by the player into missles for a short while. |
+| Maverick Emblem | Row3     | Row3     | Made all shots fired by the player into missles for a short while. (Design based on Konami's Contra.) |
 
 ## Closing Thoughts.
 
