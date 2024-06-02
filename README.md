@@ -32,7 +32,7 @@ Special Thanks to Atlas Development Team Members:
 [Zachary Whittman](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead*: Requested Assets from members, Lead Artstyle and Design, Background Creation and Effects, Powerup behavior. 
 
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_TitleScreen.png" > 
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Atlas_Development_Team_Photo.jpg" > 
 </p>
 
 ## ⌨ What is Powershell-Empire? 
