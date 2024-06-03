@@ -16,9 +16,12 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 7. Closing Thoughts.
 
 ##  What is MAVERICK? What were our Design Decisions?
-* Powershell-Empire was an open-source post-exploitation agent that ran through Windows Powershell.
-* It allowed for a user to generate attack scripts for use against other Windows machines, MacOS, or Linux subsystems.
-* It is not offically maintained as of August of 2019, but a fork was used as a base for the creation of this cybersecurity excercise.
+* MAVERICK is a indie game created in under 48 hours for the Borderlands Glitch GameJam.
+* It is unofficially based on the Top Gun movie released in 1986.
+* MAVERICK is a 2D Shoot 'Em Up, inspired by arcade titles such as 1942 and Galaga.
+<p align="center">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/MAVERICK_Arcade_Banner.png" height="200px">
+</p> 
 
 ### (Unofficial) License Choice
 * Since the prompt of this GameJam was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
