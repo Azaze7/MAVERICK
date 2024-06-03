@@ -30,7 +30,7 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 | The Evil Dead (1981) | Survival Horror |
 | Indiana Jones & The Raiders of the Lost Ark (1981) | 2D Platformer |
 | Karate Kid (1984) | Fighting Game |
-| Top Gun (1986) | 2D Shooter/Bullet Hell |
+| [⭐] Top Gun (1986) | 2D Shooter/Bullet Hell |
 | Space Balls (1987) | Ship Simulator |
 | Forest Gump (1994) | Endless Runner |
 
