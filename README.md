@@ -24,6 +24,8 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 * Since the prompt of this GameJam was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
 * We took team votes to decide which games were feasible given the time constraints/looked fun to create, then recursively struck bad ones off of our list.
 * Some titles discussed, their potential genre, and the reason they were struck are:
+
+
 | *Title* | *Genre* | *Struck Reason* |
 |----------|----------|
 | The Evil Dead (1981) | Survival Horror | Too many unique Assets to make something nice. |
@@ -33,6 +35,7 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 | [⭐] Top Gun (1986) | 2D Shooter/Bullet Hell | Won The Vote! |
 | Space Balls (1987) | Ship Simulator | Too much code to make a fun simulation. |
 | Forest Gump (1994) | Endless Runner | Lack of Interest. |
+
 
 ### Naming Conventions
 * Due to the rules stating that we were *NOT* allowed to directly adapt the movie, we chose to make our game a prequel to the original Top Gun Film, when the main character Pete “Maverick” Mitchell was still in Flight School, using a simulator.
