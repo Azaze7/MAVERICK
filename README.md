@@ -53,28 +53,27 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 </p> 
 
 ### A 2-level Approach.
-* In order to teach players who may have never played a 2D shooter, the first level was set to be a tutorial with basic graphics. The colors are purposely kept simple with vectors to tie into our plot of Maverick still being in Flight School.
-* After the first level is completed, the difficulty was to be increased and a more impressive presentation would also follow.
-* We were only trying to do a 2 level vertical slice due to the strict time constraints.
+* In order to teach players who may have never played a 2D shooter, the first level was designed as a tutorial with basic graphics. The colors were purposely kept simple with vectors to tie into our plot of Maverick still being in Flight School.
+* After the first level was completed, the difficulty was intended to increase and a more impressive presentation would follow.
+* We were only aiming to create a 2-level vertical slice due to the strict time constraints.
 
 ### Healthbar & Difficulty.
-* In order to ensure MAVERICK was able to be completed by everyone who played it on the show floor, we took a more "modern-day approach" to the game's difficulty.
-* While MAVERICK did take a ton of inspiration from retro arcade style shooters, we did not want it to feel like it was designed to take your quarters away, nor overly frustrating to even a novice gamer.
+* In order to ensure MAVERICK could be completed by everyone who played it on the show floor, we took a more “modern-day approach” to the game’s difficulty.
+* While MAVERICK did draw a lot of inspiration from retro arcade-style shooters, we didn’t want it to feel like it was designed to take your quarters away, nor be overly frustrating to even a novice gamer.
 * To accomplish this, we removed the concept of lives so that everyone could just play the game, and respawn after a short while when they died. We did NOT want anyone to reach a GAME OVER state early. (This concept is implemented in many modern games, such as Celeste or Super Mario Odyssey).
 * We also increased the number of hit points the player ship could take for the sake of the demo. It was increased from 5 to 25, which in practice made it almost impossible for anyone to even see their ship blow up, especially since this was originally a tutorial stage.
-* We had very few people die while playing MAVERICK on the show floor, and when they did they respawned very quickly to keep the game fun.
-* *If MAVERICK was to be retooled, rebranded, and then released as a proper videogame, the hitpoints would be decreased to a more "challenging" level.*
-
+* We had very few people die while playing MAVERICK on the show floor, and when they did, they respawned very quickly to keep the game fun.
+* *If MAVERICK were to be retooled, rebranded, and then released as a proper video game, the hit points would be decreased to a more “challenging” level.*
 
 ## 🎏 Team Composition [Atlas Development]
 
 **This Project was completed with the assistance of *four* group members!**
 
-* Awarded [*4th Place Overall*] & [*Most Technical Award*].
+* Awarded [*4th Place Overall*] 🏆 & [*Most Technical Award*]. 🏆
 
 Special Thanks to All Team Members!
 
-[William Dunlap](https://github.com/unit098 "William's Github") - *Code Lead*: Major Game Logic, Level Loading, Enemy Behaviors, Smoke Trail System, & Bullet System.
+[William Dunlap](https://github.com/unit098 "William's Github") - *Main Code Lead*: Major Game Logic, Level Loading, Enemy Behaviors, Smoke Trail System, & Bullet System.
 
 [Gilbert I. Guzman](https://github.com/Azaze7 "Gilbert's Github") - *Team Coordinator*: Main Menu System, Game Logos/Emblems, Powerup Design, Code Assistance, SteamOS Support/Artwork, & Communicated with Staff.
 
@@ -82,7 +81,7 @@ Special Thanks to All Team Members!
 
 [Jesus Torres](https://github.com/jatorresdom "Jesus's Github") - *Lead Composer*: Composed All Music, Created Ending Screen, Ending Artwork, & Main Playtester.
 
-[Zachary Whittman](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead*: Requested Assets from Members, Taught GIMP to Team, Code Assistance, Background Creation and Effects, & Powerup Design. 
+[Zachary Whittman](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead/Co-Code Lead*: Requested Assets from Members, Taught GIMP to Team, Code Assistance, Background Creation and Effects, & Powerup Design. 
 
 <p align="center">
 <img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Atlas_Development_Team_Photo.jpg" height="375px"> 
@@ -101,7 +100,7 @@ Special Thanks to All Team Members!
 
 ## 🎞️ Video Demonstration.
 
-* A video demonstrating a full run of the one level we completed for our vertical slice was recorded by myself for this project.
+* A video demonstrating a full run of the one level we completed for our vertical slice was recorded by Gilbert for this Github Repo.
 * Since it is too big to upload here, it can be found at this link:
   * https://www.youtube.com/watch?v=DJutJYl7XlY 
 
