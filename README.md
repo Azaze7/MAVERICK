@@ -21,7 +21,7 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 * It allowed for a user to generate attack scripts for use against other Windows machines, MacOS, or Linux subsystems.
 * It is not offically maintained as of August of 2019, but a fork was used as a base for the creation of this cybersecurity excercise.
 
-### License Choice
+### (Unofficial) License Choice
 * Since the prompt of this event was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
 * Some titles discussed and their potiental genre included:
   
