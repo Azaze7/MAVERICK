@@ -16,45 +16,41 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 7. Closing Thoughts.
 
 ##  What is MAVERICK? What were our Design Decisions?
-
 * Powershell-Empire was an open-source post-exploitation agent that ran through Windows Powershell.
 * It allowed for a user to generate attack scripts for use against other Windows machines, MacOS, or Linux subsystems.
 * It is not offically maintained as of August of 2019, but a fork was used as a base for the creation of this cybersecurity excercise.
 
 ### (Unofficial) License Choice
-* Since the prompt of this event was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
-* Some titles discussed and their potiental genre included:
+* Since the prompt of this GameJam was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
+* We took team votes to decide which games were feasible given the time constraints/looked fun to create, then recursively struck bad ones off of our list.
+* Some titles discussed, their potential genre, and the reason they were struck are:
   
-| *Title* | *Genre* |
+| *Title* | *Genre* | *Struck Reason* |
 |----------|----------|
-| The Evil Dead (1981) | Survival Horror |
-| Indiana Jones & The Raiders of the Lost Ark (1981) | 2D Platformer |
-| Karate Kid (1984) | Fighting Game |
-| [⭐] Top Gun (1986) | 2D Shooter/Bullet Hell |
-| Space Balls (1987) | Ship Simulator |
-| Forest Gump (1994) | Endless Runner |
-
-* Potiental titles were struck based on their imagined difficulty to create given our tight time schedule.
-* Needing a lot of unique animations for 2D fighters led to Karate Kid getting struck. 
-* Needing a lot of code to make a fun simulation led to Space Balls getting struck.
-* Needing a lot of unique assets led to The Evil Dead and Indiana Jones getting struck.
-* Forest Gump was struck due to lack of interest, leading us to choose Top Gun.
+| The Evil Dead (1981) | Survival Horror | Too many unique Assets to make something nice. |
+| Indiana Jones & The Raiders of the Lost Ark (1981) | 2D Platformer | Too many unique Assets to make something nice. |
+| Karate Kid (1984) | Fighting Game | Too many unique animations, not our forte since were all in CS. |
+| Back to the Future (1985) | 2D Platformer/Driving Game | Lack of Interest. |
+| [⭐] Top Gun (1986) | 2D Shooter/Bullet Hell | Won The Vote! |
+| Space Balls (1987) | Ship Simulator | Too much code to make a fun simulation. |
+| Forest Gump (1994) | Endless Runner | Lack of Interest. |
 
 ### Naming Conventions
-
-* Due to the rules stating that we were *NOT* allowed to directly adapt the movie, we chose to make our game a prequel to the original Top Gun Film, when the character Pete "Maverick" Mitchell was still in Flight School, using a simulator.
-* The name of the game, MAVERICK, was chosen to satirize the wierd naming conventions that are tied to movie franchises like Rocky and Rambo. (Such as Rocky 6 being called "Rocky Balboa" and Rambo 4 being called just "Rambo").
-* The flow of our Game has a fun flow now too, being:
+* Due to the rules stating that we were *NOT* allowed to directly adapt the movie, we chose to make our game a prequel to the original Top Gun Film, when the main character Pete “Maverick” Mitchell was still in Flight School, using a simulator.
+* The name of the game, MAVERICK, was chosen to satirize the weird naming conventions that are tied to movie franchises like Rocky and Rambo. (Such as Rocky 6 being called “Rocky Balboa” and Rambo 4 being called just “Rambo”).
+* This made our game fit neatly into Top Gun's Timeline, with it now being:
 * MAVERICK -> Top Gun -> Top Gun: Maverick.
 
 ### "Cabinet" Design
 * Since MAVERICK takes design inspiration from retro arcade games, we decided to copy the way that those games are played nowadays.
 * Emulated collections of arcade games are usually played on modern TVs or monitors, which are much wider than the arcades of old.
-* We decided to add side art as though MAVERICK was a real arcade game when it is in play, which you may have seen in retro collections such as NAMCO Musuem.
+* We decided to add side art to border MAVERICK, pretending it was a real arcade game when it's in play.
+* You may have seen this before in retro collections such as NAMCO Museum.
 
 <p align="center">
 <img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/PAC-MAN_Arcade_Banner_Example.png" height="200px">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/MAVERICK_Arcade_Banner.png" height="200px"> </p> 
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/MAVERICK_Arcade_Banner.png" height="200px">
+</p> 
 
 ### A 2-level Approach.
 * In order to teach players who may have never played a 2D shooter, the first level was set to be a tutorial with basic graphics. The colors are purposely kept simple with vectors to tie into our plot of Maverick still being in Flight School.
