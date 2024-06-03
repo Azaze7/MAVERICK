@@ -15,7 +15,7 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 6. The Cutting Room Floor.
 7. Closing Thoughts.
 
-##  What is MAVERICK? What were our Design Decisions?
+## ❓ What is MAVERICK? What were our Design Decisions?
 * MAVERICK is a indie game created in under 48 hours for the Borderlands Glitch GameJam.
 * It is unofficially based on the Top Gun movie released in 1986.
 * MAVERICK is a 2D Shoot 'Em Up, inspired by arcade titles such as 1942 and Galaga.
