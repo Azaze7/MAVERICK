@@ -24,7 +24,6 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 * Since the prompt of this GameJam was to choose a movie or TV show from the late 80's through early 90's to base our game off of, we started by making a list as a team of what media we enjoyed from the era.
 * We took team votes to decide which games were feasible given the time constraints/looked fun to create, then recursively struck bad ones off of our list.
 * Some titles discussed, their potential genre, and the reason they were struck are:
-  
 | *Title* | *Genre* | *Struck Reason* |
 |----------|----------|
 | The Evil Dead (1981) | Survival Horror | Too many unique Assets to make something nice. |
