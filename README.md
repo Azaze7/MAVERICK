@@ -94,12 +94,13 @@ Special Thanks to All Team Members!
 
 | Filename | Type | Description | 
 | --------------- | --------------- | --------------- |
-| DemoPresentation_Software... | .pptx | PowerPoint used during live demo. |
-| InfoPresentation_Software... | .pptx | PowerPoint used to inform audience about PowerShell-Empire. |
-| Poster_Software... | .pptx | PowerPoint that contains a single slide "poster" about PowerShell-Empire. |
-| Exercise_Software... | .docx | Word Document that contains instructions on how to use PowerShell-Empire, in the same format used in CS4177. |
-| Final_Powershell_Command_Encoded_Base64 | .ps1 | Script used in Windows PowerShell. It contains instructions to take control of a Windows 7 Professional Virtual Machine. |
-| Powershell_Empire_Screenshot | .png | Sample Screenshot of Kali Linux & Windows 7 Professional. Used for this README. |
+| MAVERICK_PlayableBuild | 🗂️ | Contains Precompiled files to play MAVERICK. See README to get large assets! |
+| MAVERICK_SourceCode | 🗂️ | Contains main C# Source code for MAVERICK. See README for Google Drive Containing *ALL* Code! |
+| ReadMeAssets | 🗂️ | Contains pictures, gifs, and other assets to make this README! |
+| SpriteComparisonAssets | 🗂️ | Contains Sprites for "The Cutting Room Floor" Section. |
+| SteamGridAssets | 🗂️ | Contains Steam Hero, Grid, Background, Logo, etc. to make MAVERICK fit in better on Steam. |
+| README | .md | All of the text that you are currently reading. |
+| gitattributes | .md | Allowed for larger assets (Bigger than 20MB) to be stored on this Github Repo. |
 
 ## 🎞️ Video Demonstration.
 
