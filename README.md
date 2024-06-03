@@ -105,7 +105,12 @@ Special Thanks to All Team Members!
 
 * A video demonstrating a full run of the one level we completed for our vertical slice was recorded by Gilbert for this Github Repo.
 * Since it is too big to upload here, it can be found at this link:
-  * https://www.youtube.com/watch?v=DJutJYl7XlY 
+  * https://www.youtube.com/watch?v=DJutJYl7XlY
+
+* Here's a fun photo of our demo station at the GameJam as well. :)
+<p align="center">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Borderlands_Glitch_Logo.png" height="200px">
+</p> 
 
 ## 🕹️ SteamOS Integration.
 
