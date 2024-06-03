@@ -109,7 +109,7 @@ Special Thanks to All Team Members!
 
 * Here's a fun photo of our demo station at the GameJam as well. :)
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Borderlands_Glitch_Logo.png" height="200px">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Maverick_Demo_Station.jpg" height="200px">
 </p> 
 
 ## 🕹️ SteamOS Integration.
