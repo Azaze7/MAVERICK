@@ -27,7 +27,7 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 
 
 | *Title* | *Genre* | *Struck Reason* |
-|----------|----------|
+|----------|----------|--------|
 | The Evil Dead (1981) | Survival Horror | Too many unique Assets to make something nice. |
 | Indiana Jones & The Raiders of the Lost Ark (1981) | 2D Platformer | Too many unique Assets to make something nice. |
 | Karate Kid (1984) | Fighting Game | Too many unique animations, not our forte since were all in CS. |
