@@ -100,7 +100,7 @@ Special Thanks to All Team Members!
 | SpriteComparisonAssets | 🗂️ | Contains Sprites for "The Cutting Room Floor" Section. |
 | SteamGridAssets | 🗂️ | Contains Steam Hero, Grid, Background, Logo, etc. to make MAVERICK fit in better on Steam. |
 | README | .md | All of the text that you are currently reading. |
-| gitattributes | .md | Allowed for larger assets (Bigger than 20MB) to be stored on this Github Repo. |
+| gitattributes | .txt | Allowed for larger assets (Bigger than 20MB) to be stored on this Github Repo. |
 
 ## 🎞️ Video Demonstration.
 
