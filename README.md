@@ -20,7 +20,7 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 * It is unofficially based on the Top Gun movie released in 1986.
 * MAVERICK is a 2D Shoot 'Em Up, inspired by arcade titles such as 1942 and Galaga.
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/MAVERICK_Arcade_Banner.png" height="200px">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Borderlands_Glitch_Logo.png" height="200px">
 </p> 
 
 ### (Unofficial) License Choice
