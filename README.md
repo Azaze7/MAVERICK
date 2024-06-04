@@ -157,4 +157,5 @@ Special Thanks to All Team Members!
 | Maverick Emblem | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Real.png" > | Made all shots fired by the player into missles for a short while. (Design based on powerups in Konami's Contra.) |
 
 ## 🚪 Closing Thoughts.
+> "This is a quote."
 
