@@ -157,15 +157,12 @@ Special Thanks to All Team Members!
 | Maverick Emblem | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Real.png" > | Made all shots fired by the player into missles for a short while. (Design based on powerups in Konami's Contra.) |
 
 ## 🚪 Closing Thoughts.
-> "Coding Maverick was great experience in using C#. However, I still think sometimes, *Why can a 2D Sprite flip the in the Z-Plane?*" -William Dunlap
+> "Coding Maverick was great experience in using C#. I learned a lot as the main coder for the project, as Unity was refusing to compile for everyone else's computer on the first day of development. However, I still think sometimes, *Why can a 2D Sprite flip the in the Z-Plane?*" -William Dunlap
 
 > "Participating in this Game Jam was as fun as playing any videogame. All the collective knowledge our team had acquired was channeled into something creative, which was a refreshing change from our usual grind of homework. I found myself wearing many hats during this competition; coordinating our team, coding menus, and creating art assets; but because I had people I could trust, I never got too overwhelmed. Despite our short timeline, our collective sleep deprivation, and other life obligations popping up, our team's passion never faltered. Atlas Development turned caffeine into code, and I loved every minute of it." - Gilbert I. Guzman
 
-Dante Lopez - Art Support: Assisted In Creation of all Assets, Consulted on Jet Design/Pixel Art for "realistic" level, & Side Playtester.
+> "Our team had a decent amount of hiccups due to needing to learn how to use the Unity engine within the 48 hours given, but it was a fun experience. Each member of Atlas Development seems to be still willing to continue developing Maverick to get the extra levels done. I think that says a lot about our teams dedication." - Dante Lopez
 
-Jesus Torres - Lead Composer: Composed All Music, Created Ending Screen, Ending Artwork, & Main Playtester.
+> "The Game Jam was a great experience. Collaborating with a team where everyone contributed with their best skills was amazing, especially when compared to a course project where everyone was at a different skill level. I was extremely satisfied with the final product despite the cuts that had to be made and I am interested in following up with the team to see what else we could make." - Jesus Torres 
 
-Zachary Wittmann - Art Lead/Co-Code Lead: Requested Assets from Members, Taught GIMP to Team, Code Assistance, Background Creation and Effects, & Powerup Design.
-
-> "This is a quote."
-
+> "Atlas Development made this Game Jam an extraordinary experience. It was great to gain valuable insight into what game development is like behind the scenes. Our team was able to make a fun, playable project within a few short days, which I think speaks to the hard work everyone put in. Despite the multitude of tasks I undertook to keep the team on track (Atlas Development was my name idea), the unwaviering passion of my team has motivated me to push further. I hope more of my teams in the future are like Atlas." - Zachary Wittmann
