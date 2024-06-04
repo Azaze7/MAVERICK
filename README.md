@@ -159,7 +159,7 @@ Special Thanks to All Team Members!
 ## 🚪 Closing Thoughts.
 > "Coding Maverick was great experience in using C#. However, I still think sometimes, *Why can a 2D Sprite flip the in the Z-Plane?*" -William Dunlap
 
-Gilbert I. Guzman - Team Coordinator: Main Menu System, Game Logos/Emblems, Powerup Design, Code Assistance, SteamOS Support/Artwork, & Communicated with Staff.
+> "Participating in this Game Jam was as fun as playing any videogame. All the collective knowledge our team had acquired was channeled into something creative, which was a refreshing change from our usual grind of homework. I found myself wearing many hats during this competition; coordinating our team, coding menus, and creating art assets; but because I had people I could trust, I never got too overwhelmed. Despite our short timeline, our collective sleep deprivation, and other life obligations popping up, our team's passion never faltered. Atlas Development turned caffeine into code, and I loved every minute of it." - Gilbert I. Guzman
 
 Dante Lopez - Art Support: Assisted In Creation of all Assets, Consulted on Jet Design/Pixel Art for "realistic" level, & Side Playtester.
 
