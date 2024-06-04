@@ -157,5 +157,15 @@ Special Thanks to All Team Members!
 | Maverick Emblem | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Tutorial.png" > | <img src="https://github.com/Azaze7/MAVERICK/blob/main/SpriteComparisonAssets/MaverickEmblem_Real.png" > | Made all shots fired by the player into missles for a short while. (Design based on powerups in Konami's Contra.) |
 
 ## 🚪 Closing Thoughts.
+> "Coding Maverick was great experience in using C#. However, I still think sometimes, *Why can a 2D Sprite flip the in the Z-Plane?*" -William Dunlap
+
+Gilbert I. Guzman - Team Coordinator: Main Menu System, Game Logos/Emblems, Powerup Design, Code Assistance, SteamOS Support/Artwork, & Communicated with Staff.
+
+Dante Lopez - Art Support: Assisted In Creation of all Assets, Consulted on Jet Design/Pixel Art for "realistic" level, & Side Playtester.
+
+Jesus Torres - Lead Composer: Composed All Music, Created Ending Screen, Ending Artwork, & Main Playtester.
+
+Zachary Wittmann - Art Lead/Co-Code Lead: Requested Assets from Members, Taught GIMP to Team, Code Assistance, Background Creation and Effects, & Powerup Design.
+
 > "This is a quote."
 
