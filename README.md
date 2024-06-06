@@ -84,7 +84,7 @@ Special Thanks to All Team Members!
 
 [Jesus Torres](https://github.com/jatorresdom "Jesus's Github") - *Lead Composer*: Composed All Music, Created Ending Screen, Ending Artwork, & Main Playtester.
 
-[Zachary Wittmann](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead/Co-Code Lead*: Requested Assets from Members, Taught GIMP to Team, Code Assistance, Background Creation and Effects, & Powerup Design. 
+[Zachary Wittmann](https://github.com/Zachary-Wittmann "Zachary's Github") - *Art Lead/Gameplay Lead*: Requested Assets from Members, Taught GIMP to Team, Code Assistance, Background Creation and Effects, & Powerup Design. 
 
 <p align="center">
 <img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Atlas_Development_Team_Photo.jpg" height="375px"> 
