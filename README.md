@@ -40,7 +40,7 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 
 **Here's a picture of us discussing our License Choice on the first day!**
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/First_Meeting_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="150px">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/First_Meeting_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="200px">
 </p> 
 
 ### Naming Conventions
