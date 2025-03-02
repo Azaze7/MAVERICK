@@ -38,6 +38,10 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 | Space Balls (1987) | Ship Simulator | Too much code to make a fun simulation. |
 | Forest Gump (1994) | Endless Runner | Lack of Interest. |
 
+<p align="center">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/First_Meeting_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="200px">
+</p> 
+
 ### Naming Conventions
 * Due to the rules stating that we were *NOT* allowed to directly adapt the movie, we chose to make our game a prequel to the original Top Gun Film, when the main character Pete “Maverick” Mitchell was still in Flight School, using a simulator.
 * The name of the game, MAVERICK, was chosen to satirize the weird naming conventions that are tied to movie franchises like Rocky and Rambo. (Such as Rocky 6 being called “Rocky Balboa” and Rambo 4 being called just “Rambo”).
