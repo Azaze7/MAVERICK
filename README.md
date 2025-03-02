@@ -38,9 +38,9 @@ Finalized Build/Source Code of MAVERICK, a game created by "Atlas Development" f
 | Space Balls (1987) | Ship Simulator | Too much code to make a fun simulation. |
 | Forest Gump (1994) | Endless Runner | Lack of Interest. |
 
-**Here's a picture of us discussing our choice of game!**
+**Here's a picture of us discussing our License Choice on the first day!**
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/First_Meeting_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="375px">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/First_Meeting_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="150px">
 </p> 
 
 ### Naming Conventions
@@ -172,8 +172,9 @@ Special Thanks to All Team Members!
 
 > "Atlas Development made this Game Jam an extraordinary experience. It was great to gain valuable insight into what game development is like behind the scenes. Our team was able to make a fun, playable project within a few short days, which I think speaks to the hard work everyone put in. Despite the multitude of tasks I undertook to keep the team on track (Atlas Development was my name idea), the unwaviering passion of my team has motivated me to push further. I hope more of my teams in the future are like Atlas." - Zachary Wittmann
 
+**Here's a picture of Atlas Development at the Awards Ceremony!**
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Most_Technical_Award_Ceremony_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="200px">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Most_Technical_Award_Ceremony_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="150px">
 </p> 
 
 Thank You for reading about our little game. We hope it was entertaining!
