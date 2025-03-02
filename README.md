@@ -173,7 +173,7 @@ Special Thanks to All Team Members!
 > "Atlas Development made this Game Jam an extraordinary experience. It was great to gain valuable insight into what game development is like behind the scenes. Our team was able to make a fun, playable project within a few short days, which I think speaks to the hard work everyone put in. Despite the multitude of tasks I undertook to keep the team on track (Atlas Development was my name idea), the unwaviering passion of my team has motivated me to push further. I hope more of my teams in the future are like Atlas." - Zachary Wittmann
 
 <p align="center">
-<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Most_Technical_Award_Ceremony_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="375px">
+<img src="https://github.com/Azaze7/MAVERICK/blob/main/ReadMeAssets/Most_Technical_Award_Ceremony_Borderland_Glitch_GameJam_Atlas_Development.jpg" height="200px">
 </p> 
 
 Thank You for reading about our little game. We hope it was entertaining!
